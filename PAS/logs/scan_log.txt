@@ -1,0 +1,141 @@
+=== Scan at 2025-05-04 00:17:57.888384 ===
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy (10).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy (11).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy (12).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy (2).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy (3).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy (4).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy (5).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy (6).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy (7).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy (8).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy (9).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file - Copy.txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\dummy_text_file.txt
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy (10).txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy (11).txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy (12).txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy (2).txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy (3).txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy (4).txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy (5).txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy (6).txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy (7).txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy (8).txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy (9).txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file - Copy.txt_quarantined
+[QUARANTINED] C:/Quarantine/dummy_text_file.txt_quarantined
+[DELETED] C:/Quarantine/dummy_text_file - Copy (10).txt_quarantined
+[DELETED] C:/Quarantine/dummy_text_file - Copy (3).txt_quarantined
+[DELETED] C:/Quarantine/dummy_text_file - Copy (5).txt_quarantined
+[DELETED] C:/Quarantine/dummy_text_file - Copy (6).txt_quarantined
+
+=== Scan at 2025-05-04 00:18:14.826872 ===
+No infected files found.
+[DELETED] C:\Quarantine\dummy_text_file - Copy (11).txt_quarantined
+[DELETED] C:\Quarantine\dummy_text_file - Copy (12).txt_quarantined
+[DELETED] C:\Quarantine\dummy_text_file - Copy (2).txt_quarantined
+[DELETED] C:\Quarantine\dummy_text_file - Copy (4).txt_quarantined
+[DELETED] C:\Quarantine\dummy_text_file - Copy (7).txt_quarantined
+[DELETED] C:\Quarantine\dummy_text_file - Copy (8).txt_quarantined
+[DELETED] C:\Quarantine\dummy_text_file - Copy (9).txt_quarantined
+[DELETED] C:\Quarantine\dummy_text_file - Copy.txt_quarantined
+[DELETED] C:\Quarantine\dummy_text_file.txt_quarantined
+
+=== Scan at 2025-05-04 00:22:57.261550 ===
+No infected files found.
+
+=== Scan at 2025-05-05 00:35:56.398464 ===
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (10).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (11).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (12).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (13).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (14).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (15).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (16).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (17).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (18).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (19).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (2).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (3).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (4).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (5).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (6).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (7).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (8).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (9).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy.txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy.txt
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (10).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (11).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (12).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (13).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (14).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (15).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (16).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (17).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (18).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (19).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (2).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (3).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (4).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (5).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (6).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (7).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (8).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (9).txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy.txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy.txt_quarantined
+
+=== Scan at 2025-05-05 00:36:21.911158 ===
+No infected files found.
+
+=== Scan at 2025-05-05 00:37:01.228620 ===
+No infected files found.
+[DELETED] C:\Quarantine\virus_dummy - Copy (10).txt_quarantined
+[DELETED] C:\Quarantine\virus_dummy - Copy (11).txt_quarantined
+[DELETED] C:\Quarantine\virus_dummy - Copy (12).txt_quarantined
+[DELETED] C:\Quarantine\virus_dummy - Copy (13).txt_quarantined
+[DELETED] C:\Quarantine\virus_dummy - Copy (14).txt_quarantined
+[DELETED] C:\Quarantine\virus_dummy - Copy (15).txt_quarantined
+[DELETED] C:\Quarantine\virus_dummy - Copy (16).txt_quarantined
+[DELETED] C:\Quarantine\virus_dummy - Copy (17).txt_quarantined
+[DELETED] C:\Quarantine\virus_dummy - Copy (18).txt_quarantined
+[DELETED] C:\Quarantine\virus_dummy - Copy (19).txt_quarantined
+
+=== Scan at 2025-05-05 00:53:03.287282 ===
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (2).txt_quarantined
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (3).txt_quarantined
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (4).txt_quarantined
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (5).txt_quarantined
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (6).txt_quarantined
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (7).txt_quarantined
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy (8).txt_quarantined
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy - Copy.txt_quarantined
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\virus_dummy.txt_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (2).txt_quarantined_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (3).txt_quarantined_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (4).txt_quarantined_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (5).txt_quarantined_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (6).txt_quarantined_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (7).txt_quarantined_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy (8).txt_quarantined_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy - Copy.txt_quarantined_quarantined
+[QUARANTINED] C:/Quarantine/virus_dummy.txt_quarantined_quarantined
+[DELETED] C:/Quarantine/virus_dummy - Copy (2).txt_quarantined_quarantined
+[DELETED] C:/Quarantine/virus_dummy - Copy (3).txt_quarantined_quarantined
+[DELETED] C:/Quarantine/virus_dummy - Copy (4).txt_quarantined_quarantined
+[DELETED] C:/Quarantine/virus_dummy - Copy (5).txt_quarantined_quarantined
+[DELETED] C:/Quarantine/virus_dummy - Copy (6).txt_quarantined_quarantined
+[DELETED] C:/Quarantine/virus_dummy - Copy (7).txt_quarantined_quarantined
+[DELETED] C:/Quarantine/virus_dummy - Copy (8).txt_quarantined_quarantined
+[DELETED] C:/Quarantine/virus_dummy - Copy.txt_quarantined_quarantined
+[DELETED] C:/Quarantine/virus_dummy.txt_quarantined_quarantined
+
+=== Scan at 2025-05-05 00:53:55.943997 ===
+No infected files found.
+
+=== Scan at 2025-05-05 00:57:10.630945 ===
+No infected files found.
+
+[2025-05-05 00:58:07.048659] Folder 'C:\Users\Antonio\Downloads\Telegram Desktop' scanned: no infections.
