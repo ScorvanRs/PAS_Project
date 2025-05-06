@@ -292,3 +292,208 @@
 [2025-05-05 04:11:04.110872] SHREDDED from quarantine: final_dummy_infected - Copy (8).txt_quarantined
 [2025-05-05 04:11:04.115409] SHREDDED from quarantine: final_dummy_infected - Copy (10).txt_quarantined
 [2025-05-05 04:11:04.118387] SHREDDED from quarantine: final_dummy_infected - Copy (3).txt_quarantined
+[2025-05-06 08:58:08.261078] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (10).txt
+[2025-05-06 08:58:08.269212] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (11).txt
+[2025-05-06 08:58:08.269212] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (12).txt
+[2025-05-06 08:58:08.269212] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (13).txt
+[2025-05-06 08:58:08.269212] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (14).txt
+[2025-05-06 08:58:08.276911] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (15).txt
+[2025-05-06 08:58:08.276911] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (16).txt
+[2025-05-06 08:58:08.276911] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (17).txt
+[2025-05-06 08:58:08.276911] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (18).txt
+[2025-05-06 08:58:08.285227] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (19).txt
+[2025-05-06 08:58:08.288640] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (2).txt
+[2025-05-06 08:58:08.288640] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (20).txt
+[2025-05-06 08:58:08.294476] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (21).txt
+[2025-05-06 08:58:08.294476] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (22).txt
+[2025-05-06 08:58:08.297689] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (3).txt
+[2025-05-06 08:58:08.297689] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (4).txt
+[2025-05-06 08:58:08.302460] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (5).txt
+[2025-05-06 08:58:08.302460] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (6).txt
+[2025-05-06 08:58:08.302460] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (7).txt
+[2025-05-06 08:58:08.307368] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (8).txt
+[2025-05-06 08:58:08.307368] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (9).txt
+[2025-05-06 08:58:08.310216] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy.txt
+[2025-05-06 08:58:08.310216] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected.txt
+[2025-05-06 08:59:54.033055] SHREDDED from quarantine: final_dummy_infected - Copy (14).txt_quarantined
+[2025-05-06 08:59:54.048146] SHREDDED from quarantine: final_dummy_infected - Copy (17).txt_quarantined
+[2025-05-06 08:59:54.057272] SHREDDED from quarantine: final_dummy_infected - Copy (4).txt_quarantined
+[2025-05-06 08:59:54.057272] SHREDDED from quarantine: final_dummy_infected - Copy (11).txt_quarantined
+[2025-05-06 08:59:54.064569] SHREDDED from quarantine: final_dummy_infected - Copy (7).txt_quarantined
+[2025-05-06 08:59:54.073824] SHREDDED from quarantine: final_dummy_infected - Copy (5).txt_quarantined
+[2025-05-06 08:59:54.081422] SHREDDED from quarantine: final_dummy_infected - Copy (6).txt_quarantined
+[2025-05-06 08:59:54.086073] SHREDDED from quarantine: final_dummy_infected - Copy (2).txt_quarantined
+[2025-05-06 08:59:54.097878] SHREDDED from quarantine: final_dummy_infected - Copy (12).txt_quarantined
+[2025-05-06 08:59:54.106379] SHREDDED from quarantine: final_dummy_infected - Copy (20).txt_quarantined
+[2025-05-06 08:59:54.112403] SHREDDED from quarantine: final_dummy_infected - Copy (19).txt_quarantined
+[2025-05-06 08:59:54.116755] SHREDDED from quarantine: final_dummy_infected - Copy (13).txt_quarantined
+[2025-05-06 08:59:54.122509] SHREDDED from quarantine: final_dummy_infected - Copy (3).txt_quarantined
+[2025-05-06 08:59:54.123109] SHREDDED from quarantine: final_dummy_infected - Copy (10).txt_quarantined
+[2025-05-06 08:59:54.131419] SHREDDED from quarantine: final_dummy_infected - Copy.txt_quarantined
+[2025-05-06 08:59:54.131419] SHREDDED from quarantine: final_dummy_infected.txt_quarantined
+[2025-05-06 08:59:54.141175] SHREDDED from quarantine: final_dummy_infected - Copy (8).txt_quarantined
+[2025-05-06 08:59:54.147205] SHREDDED from quarantine: final_dummy_infected - Copy (16).txt_quarantined
+[2025-05-06 08:59:54.152836] SHREDDED from quarantine: final_dummy_infected - Copy (15).txt_quarantined
+[2025-05-06 08:59:54.155680] SHREDDED from quarantine: final_dummy_infected - Copy (9).txt_quarantined
+[2025-05-06 08:59:54.163905] SHREDDED from quarantine: final_dummy_infected - Copy (22).txt_quarantined
+[2025-05-06 08:59:54.163905] SHREDDED from quarantine: final_dummy_infected - Copy (18).txt_quarantined
+[2025-05-06 08:59:54.182012] SHREDDED from quarantine: final_dummy_infected - Copy (21).txt_quarantined
+[2025-05-06 10:17:39.719690] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (10) - Copy.txt
+[2025-05-06 10:17:39.719690] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (10).txt
+[2025-05-06 10:17:39.724415] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (11) - Copy.txt
+[2025-05-06 10:17:39.726440] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (11).txt
+[2025-05-06 10:17:39.730301] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (12) - Copy.txt
+[2025-05-06 10:17:39.732307] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (12).txt
+[2025-05-06 10:17:39.732307] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (13) - Copy.txt
+[2025-05-06 10:17:39.741725] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (13).txt
+[2025-05-06 10:17:39.743306] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (14) - Copy.txt
+[2025-05-06 10:17:39.745312] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (14).txt
+[2025-05-06 10:17:39.747325] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (15) - Copy.txt
+[2025-05-06 10:17:39.748840] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (15).txt
+[2025-05-06 10:17:39.750983] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (16) - Copy.txt
+[2025-05-06 10:17:39.752955] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (16).txt
+[2025-05-06 10:17:39.754559] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (17) - Copy.txt
+[2025-05-06 10:17:39.755000] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (17).txt
+[2025-05-06 10:17:39.758876] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (18) - Copy.txt
+[2025-05-06 10:17:39.758876] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (18).txt
+[2025-05-06 10:17:39.761172] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (19) - Copy.txt
+[2025-05-06 10:17:39.761172] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (19).txt
+[2025-05-06 10:17:39.761172] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (2) - Copy.txt
+[2025-05-06 10:17:39.766722] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (2).txt
+[2025-05-06 10:17:39.766722] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (20) - Copy.txt
+[2025-05-06 10:17:39.769608] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (20).txt
+[2025-05-06 10:17:39.769608] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (21) - Copy.txt
+[2025-05-06 10:17:39.776312] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (21).txt
+[2025-05-06 10:17:39.777942] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (22) - Copy.txt
+[2025-05-06 10:17:39.779966] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (22).txt
+[2025-05-06 10:17:39.783017] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (23) - Copy.txt
+[2025-05-06 10:17:39.784771] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (23).txt
+[2025-05-06 10:17:39.785357] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (24) - Copy.txt
+[2025-05-06 10:17:39.785357] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (24).txt
+[2025-05-06 10:17:39.788733] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (25) - Copy.txt
+[2025-05-06 10:17:39.790977] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (26) - Copy.txt
+[2025-05-06 10:17:39.790977] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (27) - Copy.txt
+[2025-05-06 10:17:39.794803] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (28) - Copy.txt
+[2025-05-06 10:17:39.794803] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (29) - Copy.txt
+[2025-05-06 10:17:39.798121] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (3) - Copy.txt
+[2025-05-06 10:17:39.799130] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (3).txt
+[2025-05-06 10:17:39.799130] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (30) - Copy.txt
+[2025-05-06 10:17:39.803821] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (31) - Copy.txt
+[2025-05-06 10:17:39.804732] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (32) - Copy.txt
+[2025-05-06 10:17:39.804732] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (33) - Copy.txt
+[2025-05-06 10:17:39.807765] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (34) - Copy.txt
+[2025-05-06 10:17:39.809466] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (35) - Copy.txt
+[2025-05-06 10:17:39.811537] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (36) - Copy.txt
+[2025-05-06 10:17:39.813606] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (37) - Copy.txt
+[2025-05-06 10:17:39.813606] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (38) - Copy.txt
+[2025-05-06 10:17:39.818437] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (39) - Copy.txt
+[2025-05-06 10:17:39.819960] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (4) - Copy.txt
+[2025-05-06 10:17:39.819960] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (4).txt
+[2025-05-06 10:17:39.824063] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (40) - Copy.txt
+[2025-05-06 10:17:39.824063] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (41) - Copy.txt
+[2025-05-06 10:17:39.827456] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (42) - Copy.txt
+[2025-05-06 10:17:39.828463] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (43) - Copy.txt
+[2025-05-06 10:17:39.830654] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (5) - Copy.txt
+[2025-05-06 10:17:39.830654] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (5).txt
+[2025-05-06 10:17:39.830654] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (6) - Copy.txt
+[2025-05-06 10:17:39.830654] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (6).txt
+[2025-05-06 10:17:39.836960] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (7) - Copy.txt
+[2025-05-06 10:17:39.836960] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (7).txt
+[2025-05-06 10:17:39.836960] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (8) - Copy.txt
+[2025-05-06 10:17:39.841114] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (8).txt
+[2025-05-06 10:17:39.843656] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (9) - Copy.txt
+[2025-05-06 10:17:39.843656] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (9).txt
+[2025-05-06 10:17:39.847038] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy - Copy (2).txt
+[2025-05-06 10:17:39.849222] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy - Copy.txt
+[2025-05-06 10:17:39.851282] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy.txt
+[2025-05-06 10:17:39.851282] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected.txt
+[2025-05-06 10:18:02.514302] SHREDDED from quarantine: final_dummy_infected - Copy (7) - Copy.txt_quarantined
+[2025-05-06 10:18:02.521398] SHREDDED from quarantine: final_dummy_infected - Copy (7).txt_quarantined
+[2025-05-06 10:18:02.525592] SHREDDED from quarantine: final_dummy_infected - Copy (34) - Copy.txt_quarantined
+[2025-05-06 10:18:02.529904] SHREDDED from quarantine: final_dummy_infected - Copy (23).txt_quarantined
+[2025-05-06 10:18:02.532828] SHREDDED from quarantine: final_dummy_infected - Copy.txt_quarantined
+[2025-05-06 10:18:02.537262] SHREDDED from quarantine: final_dummy_infected - Copy (41) - Copy.txt_quarantined
+[2025-05-06 10:18:02.539751] SHREDDED from quarantine: final_dummy_infected - Copy (18).txt_quarantined
+[2025-05-06 10:18:02.543769] SHREDDED from quarantine: final_dummy_infected - Copy (13) - Copy.txt_quarantined
+[2025-05-06 10:18:02.550261] SHREDDED from quarantine: final_dummy_infected - Copy (4) - Copy.txt_quarantined
+[2025-05-06 10:18:02.550261] SHREDDED from quarantine: final_dummy_infected - Copy (14) - Copy.txt_quarantined
+[2025-05-06 10:18:02.558492] SHREDDED from quarantine: final_dummy_infected - Copy (9) - Copy.txt_quarantined
+[2025-05-06 10:18:02.558492] SHREDDED from quarantine: final_dummy_infected - Copy (11).txt_quarantined
+[2025-05-06 10:18:02.566837] SHREDDED from quarantine: final_dummy_infected - Copy (17) - Copy.txt_quarantined
+[2025-05-06 10:18:02.576590] SHREDDED from quarantine: final_dummy_infected - Copy (42) - Copy.txt_quarantined
+[2025-05-06 10:18:02.577354] SHREDDED from quarantine: final_dummy_infected - Copy (9).txt_quarantined
+[2025-05-06 10:18:02.584948] SHREDDED from quarantine: final_dummy_infected - Copy - Copy (2).txt_quarantined
+[2025-05-06 10:18:02.594243] SHREDDED from quarantine: final_dummy_infected - Copy (15) - Copy.txt_quarantined
+[2025-05-06 10:18:02.598924] SHREDDED from quarantine: final_dummy_infected - Copy (32) - Copy.txt_quarantined
+[2025-05-06 10:18:02.602844] SHREDDED from quarantine: final_dummy_infected - Copy (2) - Copy.txt_quarantined
+[2025-05-06 10:18:02.612231] SHREDDED from quarantine: final_dummy_infected - Copy (39) - Copy.txt_quarantined
+[2025-05-06 10:18:02.629897] SHREDDED from quarantine: final_dummy_infected - Copy (20).txt_quarantined
+[2025-05-06 10:18:02.629897] SHREDDED from quarantine: final_dummy_infected - Copy (10) - Copy.txt_quarantined
+[2025-05-06 10:18:02.638219] SHREDDED from quarantine: final_dummy_infected - Copy (14).txt_quarantined
+[2025-05-06 10:18:02.638219] SHREDDED from quarantine: final_dummy_infected - Copy (24).txt_quarantined
+[2025-05-06 10:18:02.646114] SHREDDED from quarantine: final_dummy_infected - Copy (33) - Copy.txt_quarantined
+[2025-05-06 10:18:02.647133] SHREDDED from quarantine: final_dummy_infected - Copy (4).txt_quarantined
+[2025-05-06 10:18:02.663399] SHREDDED from quarantine: final_dummy_infected - Copy (5).txt_quarantined
+[2025-05-06 10:18:02.665457] SHREDDED from quarantine: final_dummy_infected - Copy (11) - Copy.txt_quarantined
+[2025-05-06 10:18:02.674728] SHREDDED from quarantine: final_dummy_infected - Copy (40) - Copy.txt_quarantined
+[2025-05-06 10:18:02.680882] SHREDDED from quarantine: final_dummy_infected - Copy (35) - Copy.txt_quarantined
+[2025-05-06 10:18:02.694806] SHREDDED from quarantine: final_dummy_infected - Copy (16) - Copy.txt_quarantined
+[2025-05-06 10:18:02.696145] SHREDDED from quarantine: final_dummy_infected - Copy (2).txt_quarantined
+[2025-05-06 10:18:02.703375] SHREDDED from quarantine: final_dummy_infected - Copy (23) - Copy.txt_quarantined
+[2025-05-06 10:18:02.707592] SHREDDED from quarantine: final_dummy_infected - Copy (10).txt_quarantined
+[2025-05-06 10:18:02.709395] SHREDDED from quarantine: final_dummy_infected - Copy (18) - Copy.txt_quarantined
+[2025-05-06 10:18:02.713717] SHREDDED from quarantine: final_dummy_infected - Copy (3).txt_quarantined
+[2025-05-06 10:18:02.713717] SHREDDED from quarantine: final_dummy_infected - Copy (30) - Copy.txt_quarantined
+[2025-05-06 10:18:02.722718] SHREDDED from quarantine: final_dummy_infected - Copy (15).txt_quarantined
+[2025-05-06 10:18:02.722718] SHREDDED from quarantine: final_dummy_infected - Copy (36) - Copy.txt_quarantined
+[2025-05-06 10:18:02.733050] SHREDDED from quarantine: final_dummy_infected - Copy (5) - Copy.txt_quarantined
+[2025-05-06 10:18:02.733050] SHREDDED from quarantine: final_dummy_infected - Copy (29) - Copy.txt_quarantined
+[2025-05-06 10:18:02.743129] SHREDDED from quarantine: final_dummy_infected - Copy (6) - Copy.txt_quarantined
+[2025-05-06 10:18:02.743129] SHREDDED from quarantine: final_dummy_infected - Copy (26) - Copy.txt_quarantined
+[2025-05-06 10:18:02.753320] SHREDDED from quarantine: final_dummy_infected - Copy (3) - Copy.txt_quarantined
+[2025-05-06 10:18:02.763779] SHREDDED from quarantine: final_dummy_infected - Copy (17).txt_quarantined
+[2025-05-06 10:18:02.763779] SHREDDED from quarantine: final_dummy_infected - Copy (43) - Copy.txt_quarantined
+[2025-05-06 10:18:02.784053] SHREDDED from quarantine: final_dummy_infected - Copy (22).txt_quarantined
+[2025-05-06 10:18:02.784053] SHREDDED from quarantine: final_dummy_infected - Copy (6).txt_quarantined
+[2025-05-06 10:18:02.804483] SHREDDED from quarantine: final_dummy_infected - Copy (20) - Copy.txt_quarantined
+[2025-05-06 10:18:02.810057] SHREDDED from quarantine: final_dummy_infected - Copy - Copy.txt_quarantined
+[2025-05-06 10:18:02.811327] SHREDDED from quarantine: final_dummy_infected - Copy (28) - Copy.txt_quarantined
+[2025-05-06 10:18:02.816830] SHREDDED from quarantine: final_dummy_infected - Copy (12).txt_quarantined
+[2025-05-06 10:18:02.820858] SHREDDED from quarantine: final_dummy_infected - Copy (25) - Copy.txt_quarantined
+[2025-05-06 10:18:02.826899] SHREDDED from quarantine: final_dummy_infected - Copy (19).txt_quarantined
+[2025-05-06 10:18:02.828911] SHREDDED from quarantine: final_dummy_infected - Copy (19) - Copy.txt_quarantined
+[2025-05-06 10:18:02.835024] SHREDDED from quarantine: final_dummy_infected - Copy (31) - Copy.txt_quarantined
+[2025-05-06 10:18:02.835024] SHREDDED from quarantine: final_dummy_infected - Copy (22) - Copy.txt_quarantined
+[2025-05-06 10:18:02.839867] SHREDDED from quarantine: final_dummy_infected - Copy (24) - Copy.txt_quarantined
+[2025-05-06 10:18:02.846719] SHREDDED from quarantine: final_dummy_infected - Copy (8).txt_quarantined
+[2025-05-06 10:18:02.850268] SHREDDED from quarantine: final_dummy_infected - Copy (21).txt_quarantined
+[2025-05-06 10:18:02.855356] SHREDDED from quarantine: final_dummy_infected - Copy (12) - Copy.txt_quarantined
+[2025-05-06 10:18:02.857862] SHREDDED from quarantine: final_dummy_infected - Copy (21) - Copy.txt_quarantined
+[2025-05-06 10:18:02.867006] SHREDDED from quarantine: final_dummy_infected - Copy (27) - Copy.txt_quarantined
+[2025-05-06 10:18:02.871027] SHREDDED from quarantine: final_dummy_infected - Copy (38) - Copy.txt_quarantined
+[2025-05-06 10:18:02.885389] SHREDDED from quarantine: final_dummy_infected - Copy (8) - Copy.txt_quarantined
+[2025-05-06 10:18:02.895732] SHREDDED from quarantine: final_dummy_infected - Copy (37) - Copy.txt_quarantined
+[2025-05-06 10:18:02.897743] SHREDDED from quarantine: final_dummy_infected - Copy (16).txt_quarantined
+[2025-05-06 10:18:02.897743] SHREDDED from quarantine: final_dummy_infected - Copy (13).txt_quarantined
+[2025-05-06 10:20:06.000705] INFECTED: C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected.txt
+[2025-05-06 10:20:12.611247] SHREDDED from quarantine: final_dummy_infected.txt_quarantined
+=== Scan at 2025-05-06 12:24:57.142985 ===
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (2).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (3).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (4).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (5).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (6).txt
+[INFECTED] C:\Users\Antonio\Downloads\Telegram Desktop\final_dummy_infected - Copy (7).txt
+[QUARANTINED] Quarantine\final_dummy_infected - Copy (2).txt_quarantined
+[QUARANTINED] Quarantine\final_dummy_infected - Copy (3).txt_quarantined
+[QUARANTINED] Quarantine\final_dummy_infected - Copy (4).txt_quarantined
+[QUARANTINED] Quarantine\final_dummy_infected - Copy (5).txt_quarantined
+[QUARANTINED] Quarantine\final_dummy_infected - Copy (6).txt_quarantined
+[QUARANTINED] Quarantine\final_dummy_infected - Copy (7).txt_quarantined
+[DELETED] Quarantine\final_dummy_infected - Copy (2).txt_quarantined
+[DELETED] Quarantine\final_dummy_infected - Copy (3).txt_quarantined
+[DELETED] Quarantine\final_dummy_infected - Copy (4).txt_quarantined
+[DELETED] Quarantine\final_dummy_infected - Copy (5).txt_quarantined
+[DELETED] Quarantine\final_dummy_infected - Copy (6).txt_quarantined
+[DELETED] Quarantine\final_dummy_infected - Copy (7).txt_quarantined
+
