@@ -1,4 +1,9 @@
 import os
+import sys
+
+# Add parent directory to sys.path so PAS modules can be imported
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 import scanner
 import quarantine 
 import shredder
@@ -10,6 +15,7 @@ QUARANTINE_FOLDER = os.path.join("Quarantine")
 
 # Ensure the quarantine folder exists
 os.makedirs(QUARANTINE_FOLDER, exist_ok=True)
+
 
 def log_results(infected, quarantined=None, deleted=None):
     """Log the results of the scan, quarantine actions, and file deletions to a log file"""
