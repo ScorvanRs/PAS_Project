@@ -65,15 +65,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🔧 Troubleshooting & Alternatives
-If Streamlit is not installed or you're having compatibility issues with app.py,
-you can still run the antivirus functionality directly by executing:
- 
 
-```bash
-python PAS/main,py
-```
-This bypasses the Streamlit UI and runs core logic through the terminal instead.
 
 
 ##📁 Project Structure
